@@ -28,8 +28,8 @@
 ##Other things of note
 * If you are worried about remaining anonymous, create a dummy github or bitbucket account.
 * When you are completed, email us back with your repository location (and web address of the site).  This will be kept private.  If your github / bitbucket email address is not the same as you application email, let me know so I can match your submission to your job application.
+* Just have a go.
 
-##Timelines
-* All submissions due 5:00PM EST (AU) 12 Sept 2014
+
 
 
