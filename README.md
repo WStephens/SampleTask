@@ -6,7 +6,7 @@
 
 ##Requirements
 * A user must be able to add / remove / update data
-* The final web application must be available on the internet publically
+* ~~The final web application must be available on the internet publically~~
 * The current project code MUST be cloned (be aware that forking could let every other visitor here see your progress) 
 * There must be evidence of automated (unit or integration) testing techniques used.
 * Commit history must be intact.  No one commit repositories please (we want to see how it develops over time)
