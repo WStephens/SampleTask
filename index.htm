@@ -1,0 +1,29 @@
+﻿<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>Sample Task</title>
+    <style>td{width:auto}</style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+</head>
+<body >
+    <div>
+        <form class="form-horizontal well">
+            <fieldset>
+                <legend>Sample Task</legend>
+                <label for="csvFileInput">
+                    <strong>CSV File:</strong>
+                </label>
+                <input type="file" id="csvFileInput" onchange="handleFiles(this.files)" accept=".csv">
+                <input type="button" id="saveToFile" name="saveToFile" onclick="exportToCsv()"/>
+            </fieldset>
+        </form>
+    </div>
+    <form>
+        <div id="output">
+        </div>
+    </form>
+  <br>
+  <br>
+  <script type="text/javascript" src="js/scripts.js"></script>
+</body>
+</html>
